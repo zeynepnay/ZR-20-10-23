@@ -1,0 +1,28 @@
+/*element selectors*/
+
+h1 {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+/*class oldugunu belli etmek için css kısmında . koyuyoruz */
+.main_header {
+    color:blue;
+}          
+
+/*id için kullanırken # kullanıyoruz*/
+#p1{
+    color:orange
+}
+
+/*
+CSS'te temel 3 selector vardır::
+1)Element Selector : HTML elementlerini seçmek için.HTML element adları ile kullanılır.
+2)Class Selector: HTML classlarını seçer.Class adının başına . konularak kullanılır.
+3)ID selector : HTML Id'larını seçer.ID adının başına # işaret konularak kullanılır.
+
+*/
