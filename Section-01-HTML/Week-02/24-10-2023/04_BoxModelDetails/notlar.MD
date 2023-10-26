@@ -23,3 +23,11 @@
         <div class="box" id="box1"></div>
         <div class="box" id="box2"></div>
         <div class="box" id="box3"></div>
+
+
+        inline elementlere verdiğiniz değer etki etmez.
+        atar ama etki etmez
+        inline bir elemente genişlik veremiyoruz ama vermek istediğimizde
+        inline block diye melez bir özelliğimiz var.
+        inline block
+        yanyana yazmaya devam ediyoruz ama genişlik özelliğini verebilmemi sağlıyor.
