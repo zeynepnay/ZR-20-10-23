@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-top-banner {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.top-banner {
+    width: 100vw;
+    height: 65px;
+    background-image: linear-gradient(to-right, rgb (228, 76, 42) 50%, rgb(221, 63, 51) 50%);
+
+}
