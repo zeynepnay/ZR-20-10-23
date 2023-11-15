@@ -1,0 +1,15 @@
+.first-image{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-image: url(/images/home-bg.jpeg);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.front-page-word{
+    
+}
